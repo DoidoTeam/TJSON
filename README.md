@@ -1,7 +1,8 @@
-TJSON
+TJSON - Doido
 =====
 
-The tolerant JSON parser and encoder for Haxe
+The tolerant JSON parser and encoder for Haxe.
+This fork was made for use with [FNF': Doido Engine](https://github.com/DoidoTeam/FNF-Doido-Engine). However, you can use this with just about any project like you would with the original TJSON library.
 
 TJSON is a project to create a JSON parser that is as tolerant as JavaScript is when it comes to JavaScript object notation, if not more error-tolerant.
 It supports all the current JSON standard, along with the following tollerances added:
